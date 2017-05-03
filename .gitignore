@@ -1,0 +1,18 @@
+/gradlew.bat
+/gradlew
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+*.class
+
+/build
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+/.gradle
+*.war
+*.ear
+/.idea
+/.idea/workspace.xml
+*.iml
